@@ -30,7 +30,7 @@ To use the Social Media Application:
 6. Interact:Like and comment on posts, and view notifications for interactions.
 
 ## Contributing
-Contributions are welcome! If you would like to contribute to the development of the Bank Management System, please follow these steps:
+Contributions are welcome! If you would like to contribute to the development of the Social Media Application Project, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
